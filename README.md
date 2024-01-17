@@ -5,6 +5,8 @@ The original forum project was created in Go - I'm currently in the process of t
 
 ----
 Commits:
-16/01: Initial commit, set up Next JS project
+16/01: 
+
+Initial commit, set up Next JS project
 
 17/01: Fixed folder structure
